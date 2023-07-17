@@ -1,0 +1,4 @@
+/jobEnv
+env
+.env
+__pycache__
